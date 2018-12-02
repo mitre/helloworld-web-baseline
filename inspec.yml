@@ -12,9 +12,9 @@ inspec_version: "~> 3.0"
 
 depends:
   - name: helloworld-web-functional-baseline
-    git: https://github.com/mitre/helloworld-web-functional-baseline
+    git: https://github.com/mitre/helloworld-web-functional-baseline.git
   - name: hello-world-web-security-baseline
-    git: https://github.com/mitre/hello-world-web-security-baseline
+    git: https://github.com/mitre/helloworld-web-security-baseline.git
 
 attributes:
   - name: application_url
