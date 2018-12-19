@@ -1,8 +1,8 @@
 name: helloworld-web-baseline
 title: Application baseline for helloworld-web application
-maintainer: MITRE InSpec Team
-copyright: The MITRE Corporation, 2018
-copyright_email: opensource@mitre.org
+maintainer: The MITRE Corporation
+copyright: (c) 2018 The MITRE Corporation
+copyright_email: inspec@mitre.org
 license: Apache-2.0
 summary: This InSpec profile provides a minimal - however incomplete - example to include functional and security testing for a the helloworld-web docker application.
 version: 1.0.0
